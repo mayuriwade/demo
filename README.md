@@ -1,2 +1,3 @@
 # demo
-this is my first repositary
+this is my first repository
+author-mayuri wade
